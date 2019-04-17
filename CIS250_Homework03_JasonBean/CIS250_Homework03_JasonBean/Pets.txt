@@ -1,0 +1,5 @@
+0,Billy,Cat,Had a fever,9,22
+1,Beth,Snake,Broke fang,2,10
+2,Bart,Dog,Will not eat,4,55.9
+3,Brittany,Fish,Floating belly up,1,.005
+5,Bobby,Horse,Hurt leg,10,1020.35

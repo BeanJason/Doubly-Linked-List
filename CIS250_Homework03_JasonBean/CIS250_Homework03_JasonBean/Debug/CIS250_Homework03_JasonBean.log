@@ -1,0 +1,8 @@
+﻿  DoublyLinkedList.cpp
+c:\users\trick\desktop\cis stuff\cis250\hw3\cis250_homework03_jasonbean\cis250_homework03_jasonbean\node.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\trick\desktop\cis stuff\cis250\hw3\cis250_homework03_jasonbean\cis250_homework03_jasonbean\node.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\trick\desktop\cis stuff\cis250\hw3\cis250_homework03_jasonbean\cis250_homework03_jasonbean\doublylinkedlist.cpp(29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\trick\desktop\cis stuff\cis250\hw3\cis250_homework03_jasonbean\cis250_homework03_jasonbean\doublylinkedlist.cpp(44): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\trick\desktop\cis stuff\cis250\hw3\cis250_homework03_jasonbean\cis250_homework03_jasonbean\doublylinkedlist.cpp(18): warning C4101: 'curNode': unreferenced local variable
+c:\users\trick\desktop\cis stuff\cis250\hw3\cis250_homework03_jasonbean\cis250_homework03_jasonbean\doublylinkedlist.cpp(108): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  CIS250_Homework03_JasonBean.vcxproj -> C:\Users\trick\Desktop\CIS stuff\CIS250\HW3\CIS250_Homework03_JasonBean\Debug\CIS250_Homework03_JasonBean.exe
